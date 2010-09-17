@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Push one of the buttons</string>
+    <string name="app_name">URL Shortener</string>
+<string name="button_dialog_text">Play Sound</string>
+<string name="button_update_text">Update</string>
+<string name="dialog_title">Dialog Box Title</string>
+<string name="dialog_text">Click OK or Cancel to close</string>
+<string name="dialog_ok">OK</string>
+<string name="dialog_cancel">Cancel</string>
+<string name="sound_file">/sdcard/moonbeam.ogg</string><string name="title">Holmser.net URL Shortener</string>
+
+</resources>
