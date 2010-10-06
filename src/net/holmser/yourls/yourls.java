@@ -69,7 +69,7 @@ public class yourls extends Activity {
     			
     			String mServer = preferences.getString("yourlsServer", "http://holmser.net/i/");
     			String mUsername = preferences.getString("username", "holmser");
-    			String mPassword = preferences.getString("password", "elmoandme");
+    			String mPassword = preferences.getString("password", "*********");
     			if (validateSettings(mServer, mUsername, mPassword, context)){
     				myEditText.setText(CreateUrl(myEditText.getText().toString(), mServer, mUsername, mPassword, null));
     				//Copy text to clipboard
