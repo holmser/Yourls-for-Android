@@ -8,6 +8,11 @@
 <string name="dialog_text">Click OK or Cancel to close</string>
 <string name="dialog_ok">OK</string>
 <string name="dialog_cancel">Cancel</string>
-<string name="sound_file">/sdcard/moonbeam.ogg</string><string name="title">Holmser.net URL Shortener</string>
-
+<string name="sound_file">/sdcard/moonbeam.ogg</string>
+<string name="settings">Edit Settings</string>
+<color name="backgroundColor">#F57A00</color>
+<color name="textColor">#3399FF</color>
+<color name="textViewBackground">#70B8FF</color>
+<color name="textViewTextColor">#70B8FF</color>
+<string name="app_title">Yourls Client</string>
 </resources>
